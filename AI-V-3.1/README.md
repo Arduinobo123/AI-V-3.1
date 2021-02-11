@@ -1,5 +1,5 @@
 # AI-V-3.1
-The new AI 3.0 is here!
+The new AI 3.1 is here!
 
 Hello user!
 
